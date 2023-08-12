@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anniy8920)](https://solved.ac/anniy8920/)
-<h3 align="center">major in Statistics and interested in ML and Mlops.</h3>
+<h3 align="center">major in Statistics and interested in ML and MLOps.</h3>
 
 - 📝 I regularly write articles on [https://blog.naver.com/anniy8920](https://blog.naver.com/anniy8920)
 
